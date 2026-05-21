@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Armaan 👋
 
-<!--
-**mehta439/mehta439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science + AI** double major at **Purdue University** (Class of 2029)
 
-Here are some ideas to get you started:
+I'm building toward a career at the intersection of AI, data, and entrepreneurship. Currently focused on creating with Python, ML, and real-world data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On 🚀
+
+- 📊 Building data analysis projects in Python & R
+- 🤖 Learning ML fundamentals (scikit-learn, Andrew Ng's course)
+- 🏏 Exploring cricket analytics (combining 15+ years of competitive cricket with data science)
+- 📈 Studying personal finance & investing
+
+## Experience 💼
+
+- **Product Manager Intern** @ Brightfox Education — automated workflows for 2,000+ universities, cut advisor lookup time by 80%
+- **AI Model Evaluator** @ Handshake AI Fellowship — improving LLM accuracy, bias detection, and instruction alignment
+
+## Tech Stack 🛠️
+
+**Languages:** Python • Java • R • SQL  
+**Libraries:** Pandas • NumPy • Matplotlib • ggplot2 • dplyr  
+**Tools:** Git • GitHub • JUnit • Google Apps Script
+
+## Beyond the Code 
+
+Former **USA U15 National Cricket Team Vice Captain** | California U19 player  
+10+ years of competitive cricket taught me discipline, leadership, and how to perform under pressure. These are skills I now bring to every project.
+
+## Let's Connect 
+
+- 📧 mehta439@purdue.edu
+- 💼 [LinkedIn](https://linkedin.com/in/armaanmehta415)
