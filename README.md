@@ -1,6 +1,6 @@
 # Hi, I'm Armaan 👋
 
-**Data Science + AI** double major at **Purdue University** (Class of 2029)
+**Data Science + AI** major at **Purdue University** (Class of 2029)
 
 I'm building toward a career at the intersection of AI, data, and entrepreneurship. Currently focused on creating with Python, ML, and real-world data projects.
 
