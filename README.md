@@ -2,7 +2,7 @@
 
 **Artificial Intelligence major at Purdue University** (Class of 2029)
 
-Building toward a career in machine learning engineering — currently working on
+Building toward a career in machine learning engineering, currently working on
 ML surrogate models for hypersonic aerodynamics and evaluating frontier language models.
 
 ## What I'm Working On 🚀
